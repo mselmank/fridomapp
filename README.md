@@ -14,7 +14,7 @@
 2- ## Npm install 🚀          
           
         # open new terminal
-        $ cd frido
+        $ cd fridoapp
         $ cd fridoapp
         $ npm install 
         $ npm run dev  
