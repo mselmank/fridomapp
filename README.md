@@ -16,8 +16,8 @@
         # open new terminal
         $ cd frido
         $ cd fridoapp
+        $ npm install 
         $ npm run dev  
-          
           
           
 3- ## Open the app at the URL:
