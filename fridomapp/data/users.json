@@ -1,0 +1,38 @@
+[
+    {
+        "firstName": "matias",
+        "lastName": "selman",
+        "username": "matias",
+        "hash": "$2a$10$iMIGXFB4WIib7RLONN4PWucCkktiGEh6BpMXyVLJoA1qvZsTXVm1G",
+        "id": 1,
+        "dateCreated": "2021-10-21T21:22:55.127Z",
+        "dateUpdated": "2021-10-21T21:22:55.127Z"
+    },
+    {
+        "firstName": "roberto",
+        "lastName": "roberto",
+        "username": "roberto",
+        "hash": "$2a$10$ItASRCuQhdYNkq5Ul6vn/eFswYzBjpUUG2.oVNVWDGV9cds/hLpBu",
+        "id": 2,
+        "dateCreated": "2021-10-21T21:25:56.817Z",
+        "dateUpdated": "2021-10-21T21:25:56.817Z"
+    },
+    {
+        "firstName": "alfredo",
+        "lastName": "alfredo",
+        "username": "alfredo",
+        "hash": "$2a$10$beZ1rKMMQx9WEzapCWpqgOLfEeDlW.RySLTb272cORcOuH8W2.Eoy",
+        "id": 3,
+        "dateCreated": "2021-10-22T20:55:38.361Z",
+        "dateUpdated": "2021-10-22T20:55:38.361Z"
+    },
+    {
+        "firstName": "daniela",
+        "lastName": "daniela",
+        "username": "daniela",
+        "hash": "$2a$10$BEICxnWSgzRICXQ6TPu2H.fxdBG7nFFPwjkWIK4rtjNwC01SSz/2.",
+        "id": 4,
+        "dateCreated": "2021-10-22T20:58:32.212Z",
+        "dateUpdated": "2021-10-22T20:58:32.212Z"
+    }
+]
